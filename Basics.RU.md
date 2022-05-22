@@ -182,6 +182,7 @@
 * Король шопинга, куда же без него - [Amazon](https://www.amazon.de/)
 * Агрегатор доставки еды [Lieferando](https://www.lieferando.de/)
 * Треки для хайка и велопоездок [Komoot](https://www.komoot.com/discover)
+* Другой репозиторий про Мюнхен https://github.com/trisch-me/muenchen-wiki
 
 #### Употребляемые Термины
 * `"ТермИн"` - Appointment
