@@ -1,0 +1,2 @@
+# HowToMunich
+FAQ about Munich
