@@ -55,3 +55,4 @@
 - [Запись в Führerscheinstelle на получение прав, после всех экзаменов](https://stadt.muenchen.de/service/info/hauptabteilung-ii-fahrzeugzulassungs-und-fahrerlaubnisbehoerde/10176296/)
 - [Подробности про водительское удостоверение](https://www.bmvi.de/SharedDocs/DE/Artikel/StV/Strassenverkehr/fuehrerschein.html)
 - [Список стран и регионов и требования по конвертации водительских удостоверений](https://stadt.muenchen.de/dms/Home/Stadtverwaltung/Kreisverwaltungsreferat/fachspezifisch/HA-III/Dokumente/Fuehrerschein/Staatenliste-Umschreibung-ausl-FS.pdf)
+- [более детальный гайд](https://github.com/trisch-me/muenchen-wiki/blob/master/Auto/%D0%9F%D0%BE%D0%B4%D1%82%D0%B2%D0%B5%D1%80%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%B2%D0%BE%D0%B4%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D1%85%20%D0%BF%D1%80%D0%B0%D0%B2.md)
